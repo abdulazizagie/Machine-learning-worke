@@ -1,0 +1,17 @@
+{
+	"folders": [
+		{
+			"path": ".."
+		},
+		{
+			"name": "Databricks - Workspace",
+			"uri": "dbws:/"
+		}
+	],
+	"settings": {},
+	"extensions": {
+		"recommendations": [
+			"paiqo.databricks-vscode"
+		]
+	}
+}
